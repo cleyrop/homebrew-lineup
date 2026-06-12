@@ -1,6 +1,6 @@
 cask "lineup" do
-  version "1.0.1"
-  sha256 "527a0bf5e5e130275bccf2f806c60e8d207f59c5da171a42c003ee89b4cdc8b4"
+  version "1.0.2"
+  sha256 "137dee3c14aad003062843bc3a87ca6788c9abf6f66099fa3215e85a407c6f7c"
 
   url "https://github.com/cleyrop/Lineup/releases/download/v#{version}/Lineup-#{version}.dmg"
   name "Lineup"
